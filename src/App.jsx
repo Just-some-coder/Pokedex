@@ -106,7 +106,7 @@ import './App.css'
                 </div>
 
                 <div className="info">
-                    {/*<PokemonInfo/>*/}
+                    <PokemonInfo/>
                     {/*<Stats/>*/}
                     {/*<Moves/>*/}
                 </div>
